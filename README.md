@@ -10,4 +10,4 @@ The game is currently only available on the Oculus Go VR platform, however it is
 
 `⬇ Code > Download ZIP`
 
-After downloading, you should be able to unzip and install the .apk file via ADB.
+After downloading, you should be able to unzip and install the .apk file via ADB to your Oculus. After that, you will probably find the applicatin in Library/Unknown sources.
