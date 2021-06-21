@@ -1,12 +1,13 @@
 # Space-Scene-VR
- An illusious VR game in space made for my thesis project.
- #
- This game contains illusions and visual tricks.
+![Game preview](./Screenshots/Preview.png)
+An illusious VR game in space made for my thesis project.
+#
+This game contains illusions and visual tricks.
 
- The goal is to find the way to move forward on the level.
- 
- You know you beat the game when a counter appears.
- It means you finished the game in that amount of time.
+The goal is to find the way to move forward on the level.
+
+You know you beat the game when a counter appears.
+It means you finished the game in that amount of time.
  
 ## How to launch
 
