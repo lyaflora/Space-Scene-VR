@@ -18,3 +18,10 @@ The game is currently only available on the Oculus Go VR platform, however it is
 After downloading, you should be able to unzip and install the .apk file via ADB to your Oculus. After that, you will probably find the application in Library/Unknown sources.
 
 ## Thank you for playing!
+Creators:
+
+© Pintér Adrienn, Tobai Botond István - 3D modeling, conception
+
+© Petrók Flóra - Game development
+
+[Link to background music](https://youtu.be/s57ZUkVh0NQ)
